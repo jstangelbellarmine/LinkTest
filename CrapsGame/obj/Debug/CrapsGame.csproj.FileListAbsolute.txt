@@ -1,0 +1,10 @@
+C:\Users\juani\source\repos\CrapsGame\bin\Debug\CrapsGame.exe.config
+C:\Users\juani\source\repos\CrapsGame\bin\Debug\CrapsGame.exe
+C:\Users\juani\source\repos\CrapsGame\bin\Debug\CrapsGame.pdb
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.csproj.AssemblyReference.cache
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.Form1.resources
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.Properties.Resources.resources
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.csproj.GenerateResource.cache
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.exe
+C:\Users\juani\source\repos\CrapsGame\obj\Debug\CrapsGame.pdb
